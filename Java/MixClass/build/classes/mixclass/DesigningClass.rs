@@ -1,0 +1,3 @@
+mixclass.DesigningClass
+mixclass.Complete
+mixclass.HalfComplete
